@@ -1,0 +1,7 @@
+# AppliedMind.ai - Foundation models for physical tasks with humans in the loop
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://appliedmind.ai/sitemap.xml
