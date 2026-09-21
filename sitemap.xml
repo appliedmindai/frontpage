@@ -4,12 +4,4 @@
     <loc>https://appliedmind.ai/</loc>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://appliedmind.ai/privacy.html</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://appliedmind.ai/support.html</loc>
-    <priority>0.5</priority>
-  </url>
 </urlset>
